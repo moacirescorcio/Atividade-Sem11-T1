@@ -31,7 +31,7 @@ X       PARA TOTAL DA CONTA''')
         q += 1
         total += 4
     elif 'x' in codigo:
-        print(f'{total:.2f}')
+        print(f'O total da conta foi de R${total:.2f}')
         break
     
     
